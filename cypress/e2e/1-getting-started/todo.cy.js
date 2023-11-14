@@ -1,6 +1,6 @@
 /// <reference types="cypress" />
 
-// Welcome to Cypress!
+// WLCOME TO CYPRESS AHAHAHHA
 //
 // This spec file contains a variety of sample tests
 // for a todo list app that are designed to demonstrate
