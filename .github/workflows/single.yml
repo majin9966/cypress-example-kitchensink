@@ -1,6 +1,6 @@
 # GitHub Actions
 # https://docs.github.com/en/actions/using-workflows
-name: Cypress single tests
+name: Cypress single tests Majid
 
 on: [push, workflow_dispatch]
 

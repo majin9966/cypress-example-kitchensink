@@ -122,6 +122,7 @@ describe('example to-do app', () => {
     })
 
     it('can delete all completed tasks', () => {
+      // Add by Majid
       // First, let's click the "Clear completed" button
       // `contains` is actually serving two purposes here.
       // First, it's ensuring that the button exists within the dom.
